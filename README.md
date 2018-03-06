@@ -7,6 +7,7 @@
 
 
 Requires graydistmex file:
+
     cp matlabroot/toolbox/images/images/private/graydistmex.mexa64 ~/anisotropic_geodesic_distance3d/lib 
 
 
